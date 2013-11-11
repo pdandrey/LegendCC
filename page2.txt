@@ -1,0 +1,130 @@
+
+163
+
+Chapter VIII: Feats
+Feat Name: 
+Multiclass Flexibility
+
+You have an unusual combination of abilities. 
+Feat Name: 
+Prerequisites:
+
+ Must have multiclassed, taken Guild 
+Initiation, or taken the Full Buy-In option
+Feat Name: 
+Benefit:
+
+ Select a new ability score for calculating 
+the benefits from all circles of one of your tracks. 
+For example, a tactician who gained the shaman’s 
+Spellcasting track could take this feat and base 
+all aspects of the shaman’s Spellcasting track on 
+Intelligence rather than Wisdom. 
+Feat Name: 
+Special: 
+
+You may take this feat with your Racial 
+feat slot, regardless of what race you are.
+Feat Name: 
+My Shadow Grows Long
+
+Your shadow possesses an unnaturally geometrical 
+bent, and the hard lines of your silhouette stretch 
+out to bizarre lengths.
+Feat Name: 
+Prerequisites: 
+
+The Sun Grows Dim 
+Feat Name: 
+Benefit: 
+
+By giving substance and direction to your 
+distended shadow, you may yet reach your vic
+-
+tims. Once per [Round], when you would make a 
+melee attack, you may make that same attack as a 
+ranged attack at up to [Close] range that does not 
+provoke attacks of opportunity instead. At 10th 
+level, you may use this ability twice per [Round].
+Feat Name: 
+Objective Analysis
+
+It’s an object, alright?
+Feat Name: 
+Prerequisites: 
+
+GM Approval. Ask first. Nicely.
+Feat Name: 
+Benefit:
+
+ By examining an object for 5 minutes, you 
+may perform a minor divination regarding the re
+-
+cent history of the object. You gain access to infor
+-
+mation about what the object was used for within 
+the last 45 minutes, with a fair level of detail. At 
+3rd level, your visions stretch back 2 hours. At 6th 
+level, you gain detailed information about the last 
+15 minutes, and a fair amount of detail about the 
+last 4 hours. At 9th level, you gain perfect clarity 
+regarding the last 15 minutes, detailed informa
+-
+tion about the last 30 minutes, and a solid idea of 
+the last 12 hours. At 12th level, you may instead 
+opt for a brief history of the object’s last 4 years, 
+containing little more than a name or three, and 
+any truly important events it was involved in. 
+Feat Name: 
+Open Greater Binding
+
+Your powerful essence allows you to attune to an ad
+-
+ditional magic item of even greater power.
+Feat Name: 
+Prerequisites:
+
+ Open Lesser Binding, 12th level
+Feat Name: 
+Benefit:
+
+ You can equip an additional Greater item.
+Feat Name: 
+Open Lesser Binding
+
+Through wealth, personal power, or crafting knowl
+-
+edge, you have acquired an additional magic item 
+you can attune to.
+Feat Name: 
+Benefit: 
+
+You can equip an additional Lesser item.
+Feat Name: 
+Optimistic Viscera
+
+Your interior portions are sure today is going to be a 
+good day.
+Feat Name: 
+Benefit:
+
+ You gain 1 additional HP per level and a +1 
+feat bonus to all saving throws.
+Feat Name: 
+Reaver
+
+Your bloodlust is intoxicating, spurring you on to 
+claim more lives with every kill you make.
+Feat Name: 
+Prerequisites:
+
+ Must not possess Livers Need Not Apply
+Feat Name: 
+Benefit: 
+
+You gain a +1 bonus to attack rolls and ar
+-
+mor class for every enemy whom you have killed 
+in the current [Encounter]. This bonus can never 
+exceed +4. Creatures who are more than three 
+levels lower than you do not count.

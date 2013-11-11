@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  race_id: 1
+  stat_id: 1
+  bonus: 1
+
+two:
+  race_id: 1
+  stat_id: 1
+  bonus: 1
